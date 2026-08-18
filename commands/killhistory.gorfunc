@@ -1,0 +1,3 @@
+ent: exists='True' ;
+     func: killUHIHistory(TRUE)
+     func: prompt('Version data cleared, to reset your version, go into settings.')
