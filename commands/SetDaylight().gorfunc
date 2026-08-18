@@ -1,0 +1,3 @@
+ent: version='READYCORE' ;
+     func: daylight='UserColunn'
+     func: prompt('daylight set to $$UserColunn')
