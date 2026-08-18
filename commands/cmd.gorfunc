@@ -1,0 +1,4 @@
+ent: Version='EvoulutionJAVA' ;
+    func: prompt('LOADING CMD')
+    func: wait(30) ;
+           cmd:prompt.window(OPEN)
