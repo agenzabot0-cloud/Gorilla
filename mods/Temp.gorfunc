@@ -1,0 +1,2 @@
+ent: DeleteSelf?('TRUE') ;
+     func: del
