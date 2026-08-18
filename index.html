@@ -1,3 +1,26 @@
 <title>Gorilla™ | info</title>
+  <style>
+        body, html { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; font-family: sans-serif; background-color: #111; color: white; }
+        canvas { display: none; position: absolute; top: 0; left: 0; z-index: 1; }
+        
+        /* Screens Layers */
+        .screen { position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; z-index: 10; background: radial-gradient(#222, #050505); }
+        .hidden { display: none !important; }
+        
+        /* Containers */
+        .box { background: #2a2a2a; padding: 30px; border-radius: 10px; border: 2px solid #8b4513; width: 320px; text-align: center; box-shadow: 0 0 20px rgba(0,0,0,0.5); }
+        input, button { width: 95%; padding: 12px; margin: 8px 0; border-radius: 5px; border: none; font-size: 16px; box-sizing: border-box; }
+        input { background: #444; color: white; }
+        
+        /* Buttons Color Coding */
+        button { background: #8b4513; color: white; font-weight: bold; cursor: pointer; transition: 0.15s; }
+        button:hover { background: #a0522d; transform: scale(1.02); }
+        .btn-gray { background: #555; }
+        .btn-gray:hover { background: #666; }
+        
+        /* Custom Title Design */
+        .game-title { font-size: 42px; font-weight: bold; color: #8b4513; margin-bottom: 20px; letter-spacing: 2px; text-shadow: 2px 2px 0px #000; }
+        .info-text { text-align: left; max-height: 180px; overflow-y: auto; background: #1a1a1a; padding: 12px; border-radius: 5px; font-size: 14px; margin-bottom: 15px; border: 1px solid #444; }
+  </style>
 <h1>What is Gorilla™?</h1>
 <p>Gorilla™ is a 3d voxel-ish-game featuruomg single and multiplayer.</p>
