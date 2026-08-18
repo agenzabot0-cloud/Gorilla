@@ -1,1 +1,3 @@
 *.gorfunc linguist-language=Properties
+*.gorfnc linguist-language=Properties
+*.gormde linguist-language=Java
