@@ -1,7 +1,6 @@
 {
-  "version" ; {"READYCORE"}
-  "def" ; {"EvolutionJAVA"}
-  "shaders" ; {"GorillaOrbit"}
-  "☆Textures" ; {"Gorilla"}
-
+  "version": "READYCORE",
+  "def": "EvolutionJAVA",
+  "shaders": "GorillaOrbit",
+  "☆Textures": "Gorilla"
 }
