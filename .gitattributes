@@ -1,3 +1,6 @@
 *.gorfunc linguist-language=Properties
 *.gorfnc linguist-language=Properties
 *.gormde linguist-language=Java
+*.gormbtri linguist-language=Json
+*.mbtri linguist-language=Json
+*.mobattributes linguist-language=Json
