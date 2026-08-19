@@ -1,6 +1,6 @@
 {
   "mobID": { "Zombo.ent" }
   "vectors" : ["*Zombo.idk*"]
-  "settings" : { "AgrroStats": "Hostile", "slapForce": 99.95 }
+  "settings" : { "AgrroStats": "bossMob", "slapForce": 99.95 }
 
 }
